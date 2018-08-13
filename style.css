@@ -1282,6 +1282,10 @@ main.burn-26-07-18{
     -ms-touch-action: pan-x;
         touch-action: pan-x;   
 }
+.burn-26-07-18 .related-carousel .single-related > *{
+    position: relative;
+    z-index: 2;
+}
 .mobile-image {
     display: none !important;
 }
